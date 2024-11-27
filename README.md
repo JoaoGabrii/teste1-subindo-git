@@ -1,1 +1,1 @@
-firts commit - subindo apenas o código com html e css. no secondCommit será adicionado o JS.
+repositório criado para testes de subir e versionar o código de maneira eficiente
